@@ -19,6 +19,7 @@ def animals():
     # TODO 3. If the user enters 'exit', stop the program
 
 
+A1 = simpledialog.askstring(title="Animals", prompt="What animal do you want to see.")
 # ======================= DO NOT EDIT THE CODE BELOW =========================
 
 def show_image(filename=None):
